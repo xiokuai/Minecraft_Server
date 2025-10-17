@@ -9,3 +9,7 @@
   添加了LuckPerms权限组插件以保证服务器安全
 
   将AuthMe替换为CatSeedLogin
+
+  添加了InvSee++
+
+  添加了PrismRefracted
