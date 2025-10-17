@@ -1,3 +1,9 @@
 # Minecraft_Server更新公告
-A Minecraft_Server
-2025/10/17 将WorldEdit替换为FastAsyncWorldEdit
+
+2025/10/17 
+
+  将WorldEdit替换为FastAsyncWorldEdit
+
+  移除了GMusic
+
+  添加了LuckPerms权限组插件以保证服务器安全
