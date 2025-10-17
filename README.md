@@ -7,3 +7,5 @@
   移除了GMusic
 
   添加了LuckPerms权限组插件以保证服务器安全
+
+  将AuthMe替换为CatSeedLogin
