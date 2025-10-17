@@ -12,4 +12,4 @@
 
   添加了InvSee++
 
-  添加了PrismRefracted
+  添加了TrChat
