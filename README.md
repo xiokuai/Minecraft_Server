@@ -19,3 +19,9 @@
   修改MOTD（半成品）
 
   添加了WorldGuard
+
+  添加了Multiverse系列插件以方便群组服和多世界
+
+  添加了EssentialsX
+
+  优化了部分游戏内容和服务器性能
