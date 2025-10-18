@@ -13,3 +13,9 @@
   添加了InvSee++
 
   添加了TrChat
+### 2025/10/18
+  添加了MiniMOTD
+
+  修改MOTD（半成品）
+
+  添加了WorldGuard
