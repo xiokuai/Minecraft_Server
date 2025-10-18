@@ -35,6 +35,8 @@
 
   更新了paper核心版本，已获得更稳定的支持
 
+  添加了PlayerDataRollback
+
 # 更新公告
 ## (我们鼓励每一位玩家在Issues反馈bug，核实后会给予一定奖励)
 
