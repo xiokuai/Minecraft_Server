@@ -13,6 +13,9 @@
   添加了InvSee++
 
   添加了TrChat
+
+  添加并手动汉化了SimpleTpa插件
+  
 ### 2025/10/18
   添加了MiniMOTD
 
