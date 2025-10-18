@@ -25,3 +25,7 @@
   添加了EssentialsX
 
   优化了部分游戏内容和服务器性能
+
+  添加了PlayerTitle
+
+  添加了TAB
