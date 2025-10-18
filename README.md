@@ -43,3 +43,5 @@
 TrChat无法正确识别PAPI2
 
 TAB插件有部分变量无法识别
+
+WorldGuard不兼容(已解决)
