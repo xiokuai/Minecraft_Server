@@ -37,13 +37,18 @@
 
   添加了PlayerDataRollback
 
+### 2025/10/19
+  Debug了n+1个小时
+  添加KKFISH
+  计划添加经济系统
+
 # 更新公告
 ## (我们鼓励每一位玩家在Issues反馈bug，核实后会给予一定奖励)
 
 ### 2025/10/18
 
-TrChat无法正确识别PAPI2
+TrChat无法正确识别PAPI2(已解决)
 
-TAB插件有部分变量无法识别
+TAB插件有部分变量无法识别(已解决)
 
 WorldGuard不兼容(已解决)
